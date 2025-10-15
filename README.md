@@ -8,7 +8,7 @@
 <sub>i make a lot of shit, sometimes it works :3</sub>
 
 <br>
-<img src="https://anlucas.neocities.org/made_with_windows.gif" height="31" > <img src="https://anlucas.neocities.org/rararchiverlogo.gif" height="31" > <img src="https://88x31.kate.pet/source-poweredby-orange.png" height="31" > <img src="https://88x31.kate.pet/flag-trans.png" height="31"/></a> <br>
+<img src="https://anlucas.neocities.org/made_with_windows.gif" height="31" > <img src="https://anlucas.neocities.org/rararchiverlogo.gif" height="31" > <img src="https://88x31.kate.pet/source-poweredby-orange.png" height="31" > <img src="https://88x31.kate.pet/flag-trans.png" height="31"/></a> <br> <br> <br>
 
 ```
 https://july.wtf -> view my personal site
