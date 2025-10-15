@@ -1,0 +1,14 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=F74CD7&center=true&vCenter=true&width=435&lines=haiii+%E2%9C%A8;it's+jules!+%F0%9F%92%9C)](https://git.io/typing-svg)
+
+---
+
+### im jules, aka ihatedjuly (or just july)
+<sub>i make a lot of shit, sometimes it works :3</sub>
+
+<br/>
+<img src="https://anlucas.neocities.org/made_with_windows.gif" height="31" > <img src="https://anlucas.neocities.org/rararchiverlogo.gif" height="31" > <img src="https://88x31.kate.pet/source-poweredby-orange.png" height="31" > <img src="https://88x31.kate.pet/flag-trans.png" height="31"/></a>
+```csharp
+check out my personal site, https://july.wtf :P
+```
