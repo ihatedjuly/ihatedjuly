@@ -1,8 +1,8 @@
 <div align="center">
-
+  
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=100&color=F74CD7&center=true&vCenter=true&width=1200&lines=✩%20jules!" alt="haii :3" width="1200" style="max-width:100%;height:auto;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=100&color=F74CD7&center=true&vCenter=true&width=1200&lines=✩%20jules!" alt="haii :3" style="height:220px; width:auto; max-width:100%;">
   </a>
 </p>
 
