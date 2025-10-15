@@ -1,6 +1,6 @@
 <div align="center">
   
-[![haii :3](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&pause=100&color=F74CD7&center=true&vCenter=true&width=435&lines=✩%20jules!)](https://git.io/typing-svg)
+<h1 align="center" style="color:#F74CD7; font-family:Montserrat; font-size:35px;">✩ jules!</h1>
 
 ---
 
